@@ -10,7 +10,6 @@ The bot works using Telegram's Webhook system.
 
 - Receives incoming Telegram messages
 - Echoes the received text back to the sender
-- Logs incoming raw data to data.json
 - Uses curl to communicate with Telegram API
 
 ---
